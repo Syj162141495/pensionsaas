@@ -54,7 +54,7 @@ jdbc:
   # Mysql 数据库配置
   type: mysql
   driver: com.mysql.cj.jdbc.Driver
-  url: jdbc:mysql://58.59.92.190:18079/pensionsaas?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=Asia/Shanghai
+  url: jdbc:mysql://58.59.92.190:18079/pension_saas?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=Asia/Shanghai
   username: root
   password: NnxT&z08*p;I
   testSql: SELECT 1
